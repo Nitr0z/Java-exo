@@ -1,0 +1,17 @@
+Documentation/Explication projet Java
+
+
+L'idée du projet et d'avoir un système qui permet de gérer et de listé toutes les chambres (simple ou double) d'un hôtel.
+
+Nous souhaitons donc pouvoir créer des chambres simples ou doubles, elles n'ont pas les mêmes caractéristiques. 
+
+Certaines chambres peuvent avoir des options supplémentaires qui doivent pouvoir être ajouté au cas par cas.
+
+Nous souhaitons pouvoir ajouter des propriétaires aux chambres.
+
+
+
+Je fais un test de toutes les fonctionnalités dans "Test Chambre".
+
+
+Entiérement dev à la main sur VSC par Théo
